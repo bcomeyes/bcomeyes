@@ -4,7 +4,7 @@ I'm Matt Lindsey, a Data Scientist & Machine Learning Engineer who is curious wh
 
 This image is a collection of Piet Mondrian's paintings that reduce a tree to its purest geomtrical dimensions... The same thing data scientists do with data.  Check out his wikipedia page: https://en.wikipedia.org/wiki/Piet_Mondrian  Here is the [entire image.](https://github.com/bcomeyes/bcomeyes/blob/main/bcomeyes/images/mondrian_original_tree.JPG) that shows a tree being reduced to its most basic dimensions but in which our minds still respond to seeing a tree.  As we venture into "deep" learning, we enter a higher and hidden dimensions that we are no longer capable of seeing and then reduce these dimensions back down to basic components.
 
-As I begin sharing me repos, you'll find that they all have one thing in common: exploring what is possible with data in the realms of psychology, spirituality, linguistics and education. 
+As I begin sharing me repos, you'll find that they all have one thing in common: exploring what is possible with data in the realms of linguistics, psychology and education. 
 
 <!--
 **bcomeyes/bcomeyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
