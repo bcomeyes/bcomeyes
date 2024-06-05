@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Alt text](linkedinbanner.png)
+![Alt text](https://github.com/bcomeyes/bcomeyes/blob/main/bcomeyes/images/linkedinbanner.png)
 <!--
 **bcomeyes/bcomeyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
