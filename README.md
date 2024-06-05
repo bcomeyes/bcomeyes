@@ -1,4 +1,5 @@
-## 👋 Hi there. I'm Matt Lindsey, a Data Scientist & Machine Learning Engineer who is curious what we can do with data to help others.
+## 👋 Hi there. 
+I'm Matt Lindsey, a Data Scientist & Machine Learning Engineer who is curious what we can do with data to help others.
 ![Alt text](https://github.com/bcomeyes/bcomeyes/blob/main/bcomeyes/images/linkedinbanner.png)
 
 
