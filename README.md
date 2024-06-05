@@ -2,7 +2,7 @@
 I'm Matt Lindsey, a Data Scientist & Machine Learning Engineer who is curious what we can do with data to help others.
 ![Alt text](https://github.com/bcomeyes/bcomeyes/blob/main/bcomeyes/images/linkedinbanner.png)
 
-This image is a collection of Piet Mondrian's paintings that reduce a tree to its purest geomtrical dimensions... The same thing data scientists do with data.  Check out his wikipedia page: https://en.wikipedia.org/wiki/Piet_Mondrian
+This image is a collection of Piet Mondrian's paintings that reduce a tree to its purest geomtrical dimensions... The same thing data scientists do with data.  Check out his wikipedia page: https://en.wikipedia.org/wiki/Piet_Mondrian  Here is the [entire image]()
 
 As I begin sharing me repos, you'll find that they all have one thing in common: exploring what is possible with data in the realms of psychology, spirituality, linguistics and education. 
 
